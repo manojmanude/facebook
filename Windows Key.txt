@@ -1,0 +1,11 @@
+ShowKeyPlus - Windows Product Key Information
+
+Product Name:	Windows 10 Pro
+
+Version:	17134.1 (64-bit OS)
+
+Product ID:	00330-80000-00000-AA310
+
+Installed Key:	VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+OEM Key:	OEM key not present in firmware
